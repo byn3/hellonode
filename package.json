@@ -16,14 +16,8 @@
     "docker",
     "dockerfile"
   ],
-<<<<<<< HEAD
   "author": "bleung@birst.com",
-  "license": "ISC"
-}
-=======
-  "author": "miiro@getintodevops.com",
   "license": "ISC",
   "devDependencies": { "test": ">=0.6.0" }
 }
 
->>>>>>> 9b65f220060f37f57430cf9df50bb80c001c6cf8
